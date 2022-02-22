@@ -1,4 +1,5 @@
 const applicationState = {
+   //store 
     requests: [ ]
 
 }
