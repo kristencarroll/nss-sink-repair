@@ -12,3 +12,10 @@
     color: lightgoldenrodyellow;
     font-size: 1rem;
 }
+.request__delete {
+    margin: 1rem 0 2rem 2rem;
+    padding: 0.5rem;
+    background-color: rgb(71, 47, 158);
+    color: lightgoldenrodyellow;
+    font-size: 1rem;
+}
